@@ -123,5 +123,4 @@ After editing, **recompile the plugin**.
 ## 🌐 Links
 
 🔗 **Discord:** [Join Server](https://discord.com/invite/ENMnprrc8Y)  
-🔗 **GitHub:** [v6_banner_v4.2](https://github.com/itsV6/v6_banner_v4.2)  
 🔗 **YouTube:** [@v6ehsan](https://www.youtube.com/@v6ehsan)
